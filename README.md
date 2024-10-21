@@ -41,8 +41,8 @@ In this project, we will test LinearRegression, Lasso, and Ridge linear regressi
 1. Which model is more sensitive to outliers.
 2. Which testing metric is more affected by outliers.
 
-#### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Superstore_Analysis/blob/main/superstore_analysis.ipynb
-
+#### Use this link to easily view the notebook online:
+https://nbviewer.org/github/mofidi80/LinearML_Sensitivity_Outliers/blob/main/linear%20ml%20sensitivity%20outliers.ipynb
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -75,9 +75,8 @@ In this project, we will test LinearRegression, Lasso, and Ridge linear regressi
   ```console
   pip install scikit-learn
   ```
-3. Download the "Sample - Superstore.csv" dataset csv file.
-4. Download the "superstore_analysis.ipynb" notebook.
-5. Change the file directory of the dataset in line 2 to what it is on your system.
+3. Download the "linear ml sensitivity outliers.ipynb" notebook.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
